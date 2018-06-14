@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Repositorio dedicado al código para la solución del ejercicio de Bondacom",
+  "main": "appClima.js",
+  "scripts": {
+    "test": "echo \"Error: comando de testing no especificado\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billytunin/appClima.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billytunin/appClima/issues"
+  },
+  "homepage": "https://github.com/billytunin/appClima#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "node-args": "^2.1.8",
+    "node-cron": "^1.2.1",
+    "node-storage": "0.0.7"
+  }
+}
