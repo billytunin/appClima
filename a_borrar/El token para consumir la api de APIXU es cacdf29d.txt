@@ -1,1 +1,0 @@
-El token para consumir la api de APIXU es cacdf29dc2be47d484a105606152306.
