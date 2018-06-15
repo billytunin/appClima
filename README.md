@@ -2,9 +2,9 @@
 Repositorio dedicado al código para la solución del ejercicio de Bondacom
 
 <h3>Ejecución</h3>
-`node appClima.js`
+<p style="background-color: rgba(230, 230, 230, 0.6)">node appClima.js</p>
 o en su defecto
-`nodemon appClima.js`
+<p style="background-color: rgba(230, 230, 230, 0.6)">nodemon appClima.js</p>
 
 <h3>Parámetros</h3>
 Todos los parámetros son opcionales.
@@ -16,6 +16,11 @@ Todos los parámetros son opcionales.
 </dl>
 <h3>Endpoints</h3>
 /climaActual
+
 /obtenerMinMax
+
+
+
+
 
 <b>NOTA</b>: recuerde despachar un "npm install" antes de ejecutar la app
