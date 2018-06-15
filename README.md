@@ -2,9 +2,16 @@
 Repositorio dedicado al código para la solución del ejercicio de Bondacom
 
 <h3>Ejecución</h3>
-<p style="background-color: rgba(230, 230, 230, 0.6)">node appClima.js</p>
+
+```
+node appClima.js
+```
+
 o en su defecto
-<p style="background-color: rgba(230, 230, 230, 0.6)">nodemon appClima.js</p>
+
+```
+nodemon appClima.js
+```
 
 <h3>Parámetros</h3>
 Todos los parámetros son opcionales.
